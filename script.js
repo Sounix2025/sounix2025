@@ -1,8 +1,8 @@
 const universities = [
-    { name: "Universitas Indonesia", program: "Teknik Informatika", snbp: -, snbt: - },
-    { name: "Institut Teknologi Bandung", program: "Teknik Mesin", snbp: -, snbt: - },
-    { name: "Universitas Gadjah Mada", program: "Kedokteran", snbp: -, snbt: - },
-    { name: "Universitas Andalas", program: "Hukum", snbp: -, snbt: - },
+    { name: "Universitas Indonesia", program: "Teknik Informatika", snbp: 90, snbt: 85 },
+    { name: "Institut Teknologi Bandung", program: "Teknik Mesin", snbp: 92, snbt: 88 },
+    { name: "Universitas Gadjah Mada", program: "Kedokteran", snbp: 94, snbt: 90 },
+    { name: "Universitas Andalas", program: "Hukum", snbp: 88, snbt: 82 },
 ];
 
 const searchInput = document.getElementById("search");
